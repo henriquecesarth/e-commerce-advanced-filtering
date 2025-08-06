@@ -35,7 +35,7 @@ npm run dev
 ```
 
 A aplicação estará disponível em: `http://localhost:5173`
-```
+
 ## 💡 Observações
 
 - Os produtos são fictícios, carregados de um arquivo local (sem backend).
@@ -51,4 +51,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por [Henrique C](https://www.linkedin.com/in/henrique-teixeira24/)
+Desenvolvido por [Henrique Teixeira](https://www.linkedin.com/in/henrique-teixeira24/)
